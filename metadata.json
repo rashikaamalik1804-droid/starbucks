@@ -1,0 +1,8 @@
+{
+  "name": "Starbucks Pulse - Next-Gen Lab & Cafe",
+  "description": "Starbucks Pulse interactive sensory drink lab customizer, SipTok community feed, live barista telemetry order tracker, and exclusive collaborator vault drops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
